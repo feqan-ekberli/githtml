@@ -1,2 +1,2 @@
 # Basliq 
-metin basligi
+metin basligi elave olundu 
